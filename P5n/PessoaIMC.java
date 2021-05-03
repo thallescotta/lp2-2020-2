@@ -32,4 +32,4 @@ public abstract class PessoaIMC extends Pessoa{
 		text += "Altura: " + this.altura + "\n";
 		return text;
 	}
-}
+}  
